@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58113d69-b517-4a08-b5bf-4f74d9f2a786" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h32gXf4ErGFNecsbtdTP9p9FTR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58113d69-b517-4a08-b5bf-4f74d9f2a786" name="Default Changelist" comment="" />
+      <created>1599225574041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599225574041</updated>
+      <workItem from="1599225579648" duration="311000" />
+      <workItem from="1599225922539" duration="526000" />
+      <workItem from="1599227163891" duration="22545000" />
+      <workItem from="1599316172851" duration="21422000" />
+      <workItem from="1599380284266" duration="11002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="308" width="1369" height="307" key="#SQL_Dialects" timestamp="1599332936832">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="110" y="308" width="1369" height="307" key="#SQL_Dialects/0.25.1600.875@0.25.1600.875" timestamp="1599332936832" />
+    <state x="583" y="220" width="424" height="483" key="FileChooserDialogImpl" timestamp="1599236099001">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="583" y="220" width="424" height="483" key="FileChooserDialogImpl/0.25.1600.875@0.25.1600.875" timestamp="1599236099001" />
+    <state x="596" y="383" width="307" height="157" key="NewPhpFileDialog" timestamp="1599385530074">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="596" y="383" width="307" height="157" key="NewPhpFileDialog/0.25.1600.875@0.25.1600.875" timestamp="1599385530074" />
+    <state x="464" y="208" width="672" height="677" key="run.anything.popup" timestamp="1599242132131">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="464" y="208" width="672" height="677" key="run.anything.popup/0.25.1600.875@0.25.1600.875" timestamp="1599242132131" />
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1599382798913">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup/0.25.1600.875@0.25.1600.875" timestamp="1599382798913" />
+    <state x="525" y="369" width="540" height="186" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599325640222">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="525" y="369" width="540" height="186" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.1600.875@0.25.1600.875" timestamp="1599325640222" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/includes/auth.php</url>
+          <line>161</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/includes/auth.php</url>
+          <line>160</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/includes/auth.php</url>
+          <line>159</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/includes/auth.php</url>
+          <line>158</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rdv.php</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/rdv.php</url>
+          <line>112</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

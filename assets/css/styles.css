@@ -1,0 +1,6 @@
+.bg-login-page{
+    background: url(../../assets/img/doctor.png) center center / cover no-repeat;
+}
+.form-login-select-user{
+    border-radius: 10rem;
+}
